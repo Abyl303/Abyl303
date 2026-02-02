@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abylaikhan 👋
+Java Backend Developer
 
-<!--
-**Abyl303/Abyl303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Spring Boot • REST • PostgreSQL • JPA • Maven  
+🔹 Building backend services and automation tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Java 17 | Spring Boot | REST | PostgreSQL | Hibernate | Maven | Git
+
+---
+
+## 📌 Featured Projects
+### Order Service REST API
+RESTful order management system  
+Spring Boot + PostgreSQL + JPA
+
+### Terea Admin Panel
+Full-stack admin panel  
+Spring Boot + JS (Fetch API)
+
+---
+
+## 📫 Contacts
+LinkedIn: https://linkedin.com/in/abylai-izmakhanov-348189342  
+Email: abylaikhanizmakhanov@gmail.com
