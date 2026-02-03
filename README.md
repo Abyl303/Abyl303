@@ -21,9 +21,13 @@ Spring Boot • PostgreSQL • JPA • Maven
 Full-stack CRUD admin panel  
 Spring Boot • JavaScript • Fetch API
 
-### 🔹 [Java Portfolio](https://github.com/Abyl303/Java_portfolio)
-Collection of Java practice projects and backend experiments
+### 🔹 [Task Manager](https://github.com/Abyl303/Task-manager)
+Full-stack CRUD task manager panel  
+Spring Boot • JavaScript • Fetch API
 
+### 🔹 [Registration service](https://github.com/Abyl303/Registration)
+Frontend + Backend registration panel
+Spring Boot • JavaScript • Fetch API
 
 ---
 
