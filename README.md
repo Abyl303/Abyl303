@@ -21,27 +21,9 @@ Spring Boot • PostgreSQL • JPA • Maven
 Full-stack CRUD admin panel  
 Spring Boot • JavaScript • Fetch API
 
----
-
-## 🧩 Other Repositories
-
 ### 🔹 [Java Portfolio](https://github.com/Abyl303/Java_portfolio)
 Collection of Java practice projects and backend experiments
 
-### 🔹 [Java Projects](https://github.com/Abyl303/Java)
-Core Java exercises and small applications
-
-### 🔹 [Java Laptop](https://github.com/Abyl303/Java_laptop)
-Local development and test projects
-
-### 🔹 [Java Laptop 2](https://github.com/Abyl303/Java_laptop2)
-Additional Java experiments and utilities
-
-### 🔹 [Python Practice](https://github.com/Abyl303/Python)
-Python scripts and small automation tasks
-
-### 🔹 [C++ Practice](https://github.com/Abyl303/.CPP)
-C++ fundamentals and algorithms
 
 ---
 
